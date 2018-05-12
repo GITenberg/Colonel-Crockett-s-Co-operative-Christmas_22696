@@ -1,0 +1,29 @@
+_repo: Colonel-Crockett-s-Co-operative-Christmas_22696
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22696-h/images/bcover.jpg
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PS'
+- !lcsh 'Epistolary fiction'
+title: Colonel Crockett's Co-operative Christmas
+url: http://www.gutenberg.org/ebooks/22696
